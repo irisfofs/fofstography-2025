@@ -1,0 +1,13 @@
+name = "Ixeris"
+filename = "Ixeris-3.6.3+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/BuiFgJHW/Ixeris-3.6.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "9f7117a209627660bbfac46857c9308d84c279721843be39da19cf67b09e11d1912421b428dd3d2f82355d532e6a31e83a62475bc4b5fb52d32d556822a9ebe2"
+
+[update]
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "BuiFgJHW"
