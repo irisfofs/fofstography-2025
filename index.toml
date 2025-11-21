@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/openloader/data/irisfofs-iris-emojiful-datapack.zip"
+hash = "96db21d55efe852e0f5959eb47f180573f9a6253a7c1c06bfcecec6cacf15a89"
+
+[[files]]
+file = "config/openloader/data/irisfofs-useful-emojiful-datapack.zip"
+hash = "586a799a2263730e7f89b654dd1f72629bb2cfb38b8878d0681d60d301325b1f"
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
@@ -28,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
 
 [[files]]
@@ -98,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
+metafile = true
+
+[[files]]
+file = "mods/emojiful.pw.toml"
+hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
 metafile = true
 
 [[files]]
@@ -251,6 +269,11 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "573f309a1bd1c410d149b6830aeddee7313e0698ac249a94f63a7e95c0eb146e"
 metafile = true
@@ -258,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "ce6e210ac63b92f3255c4896d116f35b0af8c57a1f84dab744d939535ea528ce"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
