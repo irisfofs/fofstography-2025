@@ -1,0 +1,13 @@
+name = "Exposure Knowlogy"
+filename = "exposure_knowlogy-neoforge-1.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/onbX6Nsj/versions/uZ8siB8q/exposure_knowlogy-neoforge-1.2.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "b76340be7f20036b2abd19140f70ac0f2d8f3aa1745a6930db661afe44f907f6fe6c649511476e853de29f701f7685df01bc03af85ca79050b74d305583771ee"
+
+[update]
+[update.modrinth]
+mod-id = "onbX6Nsj"
+version = "uZ8siB8q"

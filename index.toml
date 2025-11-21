@@ -9,6 +9,11 @@ file = "config/openloader/data/irisfofs-useful-emojiful-datapack.zip"
 hash = "586a799a2263730e7f89b654dd1f72629bb2cfb38b8878d0681d60d301325b1f"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
@@ -139,6 +144,11 @@ hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
 metafile = true
 
 [[files]]
+file = "mods/exposure-knowlogy.pw.toml"
+hash = "e62c113b0ad080336a32472500e65649dbb30b962ed31200e91e9454b0eaa18e"
+metafile = true
+
+[[files]]
 file = "mods/exposure-polaroid.pw.toml"
 hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
 metafile = true
@@ -244,8 +254,18 @@ hash = "caa948011054593b7452cfc4fa7276ff61748770285fd6b7ee5078816eed043b"
 metafile = true
 
 [[files]]
+file = "mods/knowlogy.pw.toml"
+hash = "5519ac418243f4157d73056955a9d7cac7c22ad80c0881d7ce5d147a5565af26"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+metafile = true
+
+[[files]]
+file = "mods/lavender.pw.toml"
+hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
 
 [[files]]
@@ -291,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
