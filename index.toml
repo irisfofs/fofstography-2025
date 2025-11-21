@@ -134,6 +134,21 @@ hash = "cd77d7f479a925f2c5147a9e4103a7c35c19292bf3a3144a59ecbb2905ceba62"
 metafile = true
 
 [[files]]
+file = "mods/exposure-expanded.pw.toml"
+hash = "5fad4cbcd06f11b18d1afd159d7b9cc320ed892103461d0d8206ee8ad2f1fcce"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "87908da171a79c74062db88cd9f2a7283ab52eec1cf4194af415d34105c5ef9a"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "c22010071589a36869a478fda1eae893adcc15fc9ab9996a195cc6f54333891b"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "5916832d06322a7a54d87e1fe47da5009daed0213510573d9c311c5ceefa9937"
 metafile = true
