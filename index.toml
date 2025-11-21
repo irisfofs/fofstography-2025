@@ -16,6 +16,11 @@ hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "683dbecfc509287f8a28fe2a73f180e5a488b9751c61a5a297c581287c5a57da"
 metafile = true
@@ -141,8 +146,18 @@ hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
 metafile = true
 
 [[files]]
@@ -191,8 +206,43 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
+metafile = true
+
+[[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "61d849b5dd59f7f9ccf950bbce846363c89dacd6a68af977c7cfa2f29c0ef8a6"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-backport-terralith-bwg-compat.pw.toml"
+hash = "b85d6a2e0c4fc0532f6b5f22c7f8f8f8c9d830281c6975e8f0f1cdea08cb3b47"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "b278c479cc1d50ffbcf27e3514bcdb0995471eb11e2335c54255edc459b3462e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "f6cc6c6e40289a4a53254d81261d9a3865ba383c2576fe259d5fd23ca1c660f5"
 metafile = true
 
 [[files]]
