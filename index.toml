@@ -79,6 +79,11 @@ hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
@@ -344,6 +349,26 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-curios-integration.pw.toml"
+hash = "ce6f405d86fa560f11825b1c92ac8ffe27e5d8b5e1e576ca9b464bb35bbe6c7a"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-emi-integration.pw.toml"
+hash = "4a5af515250fbde913593346d51b2c4ac8f660e71ba21f65f49a02209bb65509"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "75ebdc4251128ab3675954c8589e39fad8f8db922abaef05b06bed52b6034b46"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "2615ce20109fe11c8673991a1eb2cdfea463cd38926c067a8b9088eee7a8607d"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
@@ -416,6 +441,16 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage-knowlogy.pw.toml"
+hash = "be5f59637e7203513caee8c63ffd08a2750bbe3634e2af0e57002476fd87284c"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "cdffc74140a6d0da190aebf074d7b0e1a2d7f0b0e4fa7803618d2f154c262a0b"
 metafile = true
 
 [[files]]

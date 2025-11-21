@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Knowlogy"
+filename = "tomsstorage_knowlogy-neoforge-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WOgHMcEV/versions/iIYjgQsO/tomsstorage_knowlogy-neoforge-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "c5dff36a81871e7912da1a194272b953b954d9224f33e4043f016bc61354044144d33fe9781680f1561cfdfd4932041200eaeaece6ba9aad45e65d70c3eb0dab"
+
+[update]
+[update.modrinth]
+mod-id = "WOgHMcEV"
+version = "iIYjgQsO"
