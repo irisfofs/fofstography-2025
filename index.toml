@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/enchantedbookenabler-datapack.pw.toml"
-hash = "299948b2e34d22a81b4535f08762b625bd7585d8819c50d53de6ba6805900ccd"
-metafile = true
-
-[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "4f20967ee66eb96cbcfaa63bea9d3424ac45b7db414c9a491f31c86012f34fb5"
 metafile = true
