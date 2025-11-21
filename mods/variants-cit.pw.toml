@@ -1,0 +1,13 @@
+name = "Variants-CIT"
+filename = "variants-cit-2.15.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jURjbCaq/versions/lbl2NEAM/variants-cit-2.15.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5e98424fed1491c9d6e2452a58ccc7c083bfe4b34c53d61e1813cd6984f911d605c484fae095b51fe7025964c36f9d93745dff1bf4957e50c009bf46c174d9aa"
+
+[update]
+[update.modrinth]
+mod-id = "jURjbCaq"
+version = "lbl2NEAM"
