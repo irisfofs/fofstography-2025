@@ -224,6 +224,11 @@ hash = "2814d0d33ca5a6b95da1084b954eca9ca627890455c788811351ad6069a8f3bf"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "caa948011054593b7452cfc4fa7276ff61748770285fd6b7ee5078816eed043b"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
@@ -309,8 +314,28 @@ hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
 metafile = true
 
 [[files]]
+file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
+hash = "42e83bf25ba1496791848df019cdbc6f71b7fe133e5e8a61d6ccc5c8f7aeb722"
+metafile = true
+
+[[files]]
 file = "mods/smithing-template-viewer.pw.toml"
 hash = "382d046069eefe23726209ccc23ef5916b0ce9fb4650a5256d4cd516f74d0790"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "a1deef8071fb83a13df63c289576813b82f0687eebda9b48b7667620d5d45103"
+metafile = true
+
+[[files]]
+file = "mods/snow-sniffer.pw.toml"
+hash = "87540c0d6ab0668d93a31b77eb794c76acee411475365a148eb1225e029d5a0d"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "514dab7fee713bccf17296d21b4f25d9e67954a96e7de1a8b586b90ea00a2bed"
 metafile = true
 
 [[files]]
