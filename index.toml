@@ -79,6 +79,51 @@ hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87ccbd409962ea48348bd005f00a7c68d2add8528cdc6287c83ff52d21dc8c98"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "ed5a88a8d97fe38cca25a42aa1ffcaf51f8f84535f872a9446eff96b92b5722a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "9f3bd10fad13a1024513590b53976f0c7c9eb404727b3d08fe87ebbf451bcd04"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "637a0f8e81eebbb776d07f7ce32d6b67675000b6259beacec1cbb1b1d730683d"
+metafile = true
+
+[[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d6043c928c34ce1f4ada544a49193f95c281665cf88d4931e73370ea02870bed"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "84033f53f275811750cf65ca9ddb5ca0daeced93700ce025d2b834c115ae05f4"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -482,6 +527,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9b8940ac83dde84cfc59860c6544a4b1194e635786c26bd47dc15eee79e63598"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Create Style for Refined Storage.zip"
+hash = "a680b86ac4bbb1fec4128ec6912fc4a2fb400459f3125f4518cb286e4d4d82eb"
 
 [[files]]
 file = "resourcepacks/Xalis-Enchanted-Books-1.21-Variants-CIT.zip"
