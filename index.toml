@@ -25,10 +25,6 @@ file = "config/openloader/packs/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
 
 [[files]]
-file = "config/tameablefoxes/config.toml"
-hash = "7490ccc7ab17e6d1a40c6fbc93e19d049b3a2331f6c50fcd726de6d452343ec5"
-
-[[files]]
 file = "config/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
@@ -397,6 +393,11 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "e5e4c1204b278535538d4e45b3c65e577b37cfb3c17ebae5d136404d6b37fbfb"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
@@ -624,6 +625,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
+metafile = true
+
+[[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
 
 [[files]]
