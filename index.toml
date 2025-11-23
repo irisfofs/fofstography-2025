@@ -622,6 +622,11 @@ hash = "152f6cfe8ee891ba80faa800dd3df3058be14882f9f8d07cb38eb6a6f96ece4b"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "044abd44322fdea17184fecefa77b0f0e8bf550161c70518a16917b76821b427"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
 metafile = true
