@@ -30,7 +30,7 @@ hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
 file = "defaultconfigs/veinmining-server.toml"
-hash = "2846363bb37a8808a85fd9542de72425adcd6f605d17c6c45619b19c2cd6476b"
+hash = "bff7e3bac0020f7df9ee87eac1a6fd3c14e38bacfbfd981a07cda2689e176764"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -387,8 +387,18 @@ hash = "5c1b16bbf2308c87c81a713cac4b2e6c6796e854d5133281c759759375e02d94"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "dfc5252f31339a2f2b900399802f2e787ebe4d6e061bd150aaef50a20d2a6d20"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
 metafile = true
 
 [[files]]
@@ -789,6 +799,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/stdrdc.pw.toml"
+hash = "73b8a815589707dc6776c4c2a415dbd04c2af5e631f462a69fe6aab5e70a7216"
 metafile = true
 
 [[files]]

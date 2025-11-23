@@ -1,0 +1,13 @@
+name = "Set time doesn't reset day count"
+filename = "stdrdc-fabric-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1j4OIvt/versions/uYyYp2lb/stdrdc-fabric-1.0.0.jar"
+hash-format = "sha512"
+hash = "4bc5e7c1618aca7901ef1fc7cd29a47e0bf3a3de98c3f7a2cb524085351f4a92747e287da59e85f3a9dbfc60780a98b313bb926d52753f4dc39ffd454f0425a6"
+
+[update]
+[update.modrinth]
+mod-id = "H1j4OIvt"
+version = "uYyYp2lb"
