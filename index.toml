@@ -907,6 +907,11 @@ hash = "813e9e0eafc379e546d68dd12bfcee29eee4ab4eefbbde3b8648e3401aaa23d4"
 metafile = true
 
 [[files]]
+file = "mods/vulpine.pw.toml"
+hash = "5db80f0583ce2ebc8cb5552a8e8caa43efc119e703815a7bb91dcf31fea29108"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9d76c3683cfea5c5976823a000eacc9944db9f097894356d2a029cf36642ffa4"
 metafile = true
@@ -942,6 +947,10 @@ metafile = true
 file = "resourcepacks/sparkles.pw.toml"
 hash = "f6cc6c6e40289a4a53254d81261d9a3865ba383c2576fe259d5fd23ca1c660f5"
 metafile = true
+
+[[files]]
+file = "resourcepacks/varied-foxes-1-2 iris v1.1.zip"
+hash = "e3eb90387fab90ae7d504243bf466c46441384735919c48e95a34ba2f299e059"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
