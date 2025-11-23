@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
-hash = "28bcc7bb6641bdb3aeaf358fe4abc58f41669d05ea871512b6833bad131fdc4d"
+hash = "4213de78ee05ca0e3e8629c95a0c9ffa0fc754cbf559e6bb704f9011290a6162"
 
 [[files]]
 file = "config/openloader/packs/fofstography-tweaks/pack.mcmeta"
@@ -30,7 +30,7 @@ hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
 file = "defaultconfigs/veinmining-server.toml"
-hash = "f97f55d23f9a3f57ef3aed115f183f9e48888039df791547d6986bb9f94479ec"
+hash = "2846363bb37a8808a85fd9542de72425adcd6f605d17c6c45619b19c2cd6476b"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -240,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/enderpearl-backport.pw.toml"
 hash = "58413c553a40461ed11843ef58f625fa57d129dc9ae04209528e190c561c677c"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "5c1b16bbf2308c87c81a713cac4b2e6c6796e854d5133281c759759375e02d94"
 metafile = true
 
 [[files]]
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "42e83bf25ba1496791848df019cdbc6f71b7fe133e5e8a61d6ccc5c8f7aeb722"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "82fa5e74cae0b3f0199f9822f62a976da2dc6ee03deb543d537ce55d36b11fcb"
 metafile = true
 
 [[files]]
