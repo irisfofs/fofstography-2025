@@ -37,7 +37,7 @@ blocksList = [
   "#c:ores",
   "#forge:ores",
   "#minecraft:logs",
-  "#minecraft:wart_blocks",
+  "#minecraft:wart_blocks"
 ]
 #Determines if blocksList contains allowed blocks or denied blocks.
 #Allowed Values: ALLOW, DENY
