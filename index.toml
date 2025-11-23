@@ -667,6 +667,11 @@ hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
+file = "mods/picohud.pw.toml"
+hash = "1a87c59ae2aff983d25d4633e29b50d175e7fbd21f960daece4915730c22465c"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "573f309a1bd1c410d149b6830aeddee7313e0698ac249a94f63a7e95c0eb146e"
 metafile = true
