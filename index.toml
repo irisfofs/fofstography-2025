@@ -302,6 +302,11 @@ hash = "84033f53f275811750cf65ca9ddb5ca0daeced93700ce025d2b834c115ae05f4"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "55a0ba4e06c9c4098eb04611b0cba005256c06db7421007fea1a7ddd36d7b375"
 metafile = true
