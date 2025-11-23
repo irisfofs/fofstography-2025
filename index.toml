@@ -25,11 +25,15 @@ file = "config/openloader/packs/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
 
 [[files]]
+file = "config/tameablefoxes/config.toml"
+hash = "7490ccc7ab17e6d1a40c6fbc93e19d049b3a2331f6c50fcd726de6d452343ec5"
+
+[[files]]
 file = "config/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
-file = "defaultconfig/veinmining-server.toml"
+file = "defaultconfigs/veinmining-server.toml"
 hash = "f97f55d23f9a3f57ef3aed115f183f9e48888039df791547d6986bb9f94479ec"
 
 [[files]]
@@ -70,11 +74,6 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
-metafile = true
-
-[[files]]
-file = "mods/blueprint.pw.toml"
-hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
 metafile = true
 
 [[files]]
@@ -120,6 +119,11 @@ metafile = true
 [[files]]
 file = "mods/colorwheel.pw.toml"
 hash = "934d5afe2c8d68e991a5e24955c35abde9511a466ab62b34485363ad3f4dc43b"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "debe8db79b3c28277116c603ded923c919a091280d6ace4ad7a287b4117493e9"
 metafile = true
 
 [[files]]
@@ -195,11 +199,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
-metafile = true
-
-[[files]]
-file = "mods/easel-does-it.pw.toml"
-hash = "bd2e41b748a1626254836e438f116a420c78bbdbfcb9a392ee9b2be314bc5d28"
 metafile = true
 
 [[files]]
