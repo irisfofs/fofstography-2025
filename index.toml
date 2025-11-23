@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "bf463928645c586cb57a4e02533ee300af3931cf9db9233dae7efc1826643d41"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "89fb63ccc38d663d1947ad32c9590e3763edb2d4fdf6a3876a0d7a513a82169f"
+hash = "c9a85ef82394085adf3471b89f5b9b5fe3d8d21dcaafb12da54bd679864dc137"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
 
 [[files]]
