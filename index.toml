@@ -9,6 +9,22 @@ file = "config/openloader/packs/fofstography-tweaks/pack.mcmeta"
 hash = "bb48e8cba3ef025c6988877e092024dc7f7f93ea0eaa8fee5c1bd4a6f1b5bb5c"
 
 [[files]]
+file = "config/openloader/packs/hauser_legendary_tooltips/assets/legendarytooltips/frame_definitions.json"
+hash = "e9b7998dc7a4bcd8a67ce258731bd3ee10dd37b7028b20a2732a419e0a2a1197"
+
+[[files]]
+file = "config/openloader/packs/hauser_legendary_tooltips/assets/legendarytooltips/textures/gui/tooltip_borders.png"
+hash = "3a012759c642b6b74fdd0940c6adf70ca1b87728b6a2f81ced94a5f3a97f3a3c"
+
+[[files]]
+file = "config/openloader/packs/hauser_legendary_tooltips/pack.mcmeta"
+hash = "9a8c5e94510af64a194cbf2c8741b09f7850d24fad317d3fada7f02318057a2e"
+
+[[files]]
+file = "config/openloader/packs/hauser_legendary_tooltips/pack.png"
+hash = "3a012759c642b6b74fdd0940c6adf70ca1b87728b6a2f81ced94a5f3a97f3a3c"
+
+[[files]]
 file = "config/openloader/packs/irisfofs-iris-emojiful-datapack.zip"
 hash = "96db21d55efe852e0f5959eb47f180573f9a6253a7c1c06bfcecec6cacf15a89"
 
@@ -587,6 +603,11 @@ hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7b8e8af83e8583adc91b2d859e5355f1bd0516a346d2584b8b01c004467d18af"
 metafile = true
@@ -689,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
