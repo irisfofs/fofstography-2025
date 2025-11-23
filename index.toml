@@ -148,11 +148,6 @@ hash = "9f3bd10fad13a1024513590b53976f0c7c9eb404727b3d08fe87ebbf451bcd04"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "637a0f8e81eebbb776d07f7ce32d6b67675000b6259beacec1cbb1b1d730683d"
-metafile = true
-
-[[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
 metafile = true
