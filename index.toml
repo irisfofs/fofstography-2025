@@ -882,6 +882,11 @@ hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
 metafile = true
 
 [[files]]
+file = "mods/untitled-duck-mod.pw.toml"
+hash = "94754cc4280556af70c3a6e02ea18d3943a6a7a114a7b51eb3f4efc5e6465c4d"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-backport-terralith-bwg-compat.pw.toml"
 hash = "b85d6a2e0c4fc0532f6b5f22c7f8f8f8c9d830281c6975e8f0f1cdea08cb3b47"
 metafile = true
