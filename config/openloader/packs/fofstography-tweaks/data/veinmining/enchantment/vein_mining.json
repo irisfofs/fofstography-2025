@@ -6,16 +6,14 @@
   "exclusive_set": "#veinmining:exclusive_set/vein_mining",
   "max_cost": {
     "base": 65,
-    "per_level_above_first": 9
+    "per_level_above_first": 15
   },
-  "max_level": 5,
+  "max_level": 2,
   "min_cost": {
     "base": 15,
-    "per_level_above_first": 9
+    "per_level_above_first": 15
   },
-  "slots": [
-    "mainhand"
-  ],
+  "slots": ["mainhand"],
   "supported_items": "#veinmining:enchantable/vein_mining_tools",
   "weight": 2
 }
