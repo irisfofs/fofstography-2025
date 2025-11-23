@@ -33,6 +33,130 @@ file = "defaultconfigs/veinmining-server.toml"
 hash = "2846363bb37a8808a85fd9542de72425adcd6f605d17c6c45619b19c2cd6476b"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/emi/index/stacks/dyed_refined_storage_blocks.json"
+hash = "8426f3c5611dd8e344ba0741b988be9df4ed91fe22af299639d82dd70d9496f6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/trophy.json"
+hash = "b9fe4e458c17cd41356fbceaeba3453444f97c6b48201f1dca4e404f52902d39"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/trophy.png"
+hash = "a6373581c67bb34c696c7155dfbed497838ed3280302599ce557c5b3e1e55d7e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/elder_guardian_slab.png"
+hash = "81878f937e3ab07fe6b12f7494927650338a1a17be23249ffe6baf220c1273e4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_elder_guardian_slab.png"
+hash = "ea0d8063f593dd981a9bd93fac716a7c240ffaea80fcef7404cbff852065812d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_raw_processor.png"
+hash = "c48a0cf3554d5694c401e80a587b2ecaa0327b22badfb684ddac383c3f6d1f6a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/processor_binding.png"
+hash = "2915ac6f56e6ed4adb708eab9dc987545836c85d9a6744f7dd66551a94cc47a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/soulless_elder_guardian_slab.png"
+hash = "d756e039116b85203350f19283289382b5040a250992eab2db33af0fa6e8d131"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "0601801d568b5d5b2fa5194175d0bb9f6c0e48bb90ef1816d61cda84e9e07403"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "223e42bcb4876a93cf49e7d02561337c152e555716d2a55b6fec7247c4f216ce"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "8224ffc8ba64f57108f434a095a36c6d71c6b81c0483024904158f82e0844c18"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/create_recipes_for_refined_storage.js"
+hash = "cb5ba14164f4f9630b96717841695eee3fd9ebcea7764712efe25effdcf153e7"
+
+[[files]]
+file = "kubejs/server_scripts/src/custom_hauser_recipes.js"
+hash = "39e8a2054f98ca935316045f9cb5e2f0612a0c084d73860721b83e83f7dc12ce"
+
+[[files]]
+file = "kubejs/server_scripts/src/exposure_stack_export.js"
+hash = "cd553e2ddaae0830e0fd6eb61e5b886fe106aa0ba5f0e6b1bcab4e1b43269b53"
+
+[[files]]
+file = "kubejs/server_scripts/src/fix_soymilk_for_other_mods.js"
+hash = "142ca016eefacd99713068fe7600fd7a7d8f57dbe2bc7234a9512638dfc4f728"
+
+[[files]]
+file = "kubejs/server_scripts/src/hide_refined_storage_dyeing.js"
+hash = "8501dcedac46704f38bbded642df8b3214b43869776c4601313daf6af4ba07f2"
+
+[[files]]
+file = "kubejs/server_scripts/src/kanga_recipes.js"
+hash = "d4c5574bd31107b366241abc8a60a14a4a09005c0a4d0d2f637326f62aa177af"
+
+[[files]]
+file = "kubejs/server_scripts/src/mix_salt.js"
+hash = "e6b312bc68c64e70e3306147ad2de0ad0f2cd3e136b4439c0f67256c7dea69ea"
+
+[[files]]
+file = "kubejs/server_scripts/src/remove_op_recipes.js"
+hash = "7686333937ea9ca4bf49e7ccd1b690c22ceb8cb92dbf8f1da2dd332c94b42260"
+
+[[files]]
+file = "kubejs/server_scripts/src/renewable_dirt.js"
+hash = "04838ad835604c07db008133699e8af096b1c8de63ae41e4dff140a0a1ee1326"
+
+[[files]]
+file = "kubejs/server_scripts/src/stuffed_pumpkins_with_rice.js"
+hash = "23763f97bb77034477382c0acdd6f3a6a5e4b824f28f15484288346032b4619a"
+
+[[files]]
+file = "kubejs/server_scripts/src/superheat_netherite.js"
+hash = "70b3b62a3fe9b57f675bcf872440b560a3887a85b63fc7277bd5e1f61e50f437"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "65d562ab6447c8687ee481dd5a60bc04994dbad41033888f8e4b96ff8c31cf0d"
+
+[[files]]
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/hauser.js"
+hash = "b908977758fda1c47334f4d7110084c44f831dff53b1b777e7b0b24651666f64"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -418,6 +542,16 @@ hash = "e5e4c1204b278535538d4e45b3c65e577b37cfb3c17ebae5d136404d6b37fbfb"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "89fb63ccc38d663d1947ad32c9590e3763edb2d4fdf6a3876a0d7a513a82169f"
+metafile = true
+
+[[files]]
 file = "mods/lavender.pw.toml"
 hash = "7dc27df21d8bd6b4e5387592063817c7de24a7e3ce8c90bb6bf3a9e22199d5e5"
 metafile = true
@@ -550,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
