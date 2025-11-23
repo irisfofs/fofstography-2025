@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/openloader/data/irisfofs-iris-emojiful-datapack.zip"
+file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
+hash = "28bcc7bb6641bdb3aeaf358fe4abc58f41669d05ea871512b6833bad131fdc4d"
+
+[[files]]
+file = "config/openloader/packs/fofstography-tweaks/pack.mcmeta"
+hash = "bb48e8cba3ef025c6988877e092024dc7f7f93ea0eaa8fee5c1bd4a6f1b5bb5c"
+
+[[files]]
+file = "config/openloader/packs/irisfofs-iris-emojiful-datapack.zip"
 hash = "96db21d55efe852e0f5959eb47f180573f9a6253a7c1c06bfcecec6cacf15a89"
 
 [[files]]
-file = "config/openloader/data/irisfofs-useful-emojiful-datapack.zip"
+file = "config/openloader/packs/irisfofs-useful-emojiful-datapack.zip"
 hash = "586a799a2263730e7f89b654dd1f72629bb2cfb38b8878d0681d60d301325b1f"
+
+[[files]]
+file = "config/veinmining-client.toml"
+hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
+
+[[files]]
+file = "defaultconfig/veinmining-server.toml"
+hash = "f97f55d23f9a3f57ef3aed115f183f9e48888039df791547d6986bb9f94479ec"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -49,6 +65,11 @@ hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "683dbecfc509287f8a28fe2a73f180e5a488b9751c61a5a297c581287c5a57da"
 metafile = true
@@ -66,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
@@ -134,6 +160,11 @@ hash = "3f8fb0012b658c3ed2dfcde1385aa6255ee46cd18b77975d68665aaf0ee2a94d"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
 metafile = true
@@ -171,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/emojiful.pw.toml"
 hash = "08196e1229f323cc1eaf5969b93111705e8302a02d2acf134956f735f69e02c4"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
@@ -244,6 +280,11 @@ hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "bf87620865e88ba85547d050f09c579e991ed1f80a05058ff86598c61e1d057d"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "35e72c6577b301ac850a959bce08ca1c8a68e58f7819191a61d20c7af536ee5d"
 metafile = true
@@ -256,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "fe0bd7932e6989adcdbec64876a9d9d1dc9483cd0e44034c23e431e163f50492"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
@@ -424,6 +470,11 @@ hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
 metafile = true
 
 [[files]]
+file = "mods/simple-magnets.pw.toml"
+hash = "99796136348f1ddf36fed1e0e24310f08834df27dcf49a5aea55c0f70e46d2a2"
+metafile = true
+
+[[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 hash = "42e83bf25ba1496791848df019cdbc6f71b7fe133e5e8a61d6ccc5c8f7aeb722"
 metafile = true
@@ -464,6 +515,16 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8ed3c58f23d9255343a590b90e1216ac58142b920c9bffdd14c7fdc32e3ee002"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
@@ -471,6 +532,16 @@ metafile = true
 [[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "4338ec3c94e52d34a0678bbc124816bcb52b048dbe5bb75bab61ae1077d298e8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "2c297fb87d09bd4203399e865d48a10aa82016c53b6767b10b43726e111a3566"
 metafile = true
 
 [[files]]
@@ -494,6 +565,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage-knowlogy.pw.toml"
 hash = "be5f59637e7203513caee8c63ffd08a2750bbe3634e2af0e57002476fd87284c"
 metafile = true
@@ -509,6 +585,11 @@ hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-backport-terralith-bwg-compat.pw.toml"
 hash = "b85d6a2e0c4fc0532f6b5f22c7f8f8f8c9d830281c6975e8f0f1cdea08cb3b47"
 metafile = true
@@ -521,6 +602,11 @@ metafile = true
 [[files]]
 file = "mods/variants-cit.pw.toml"
 hash = "0e3c849a49f2de82e4f8c03ffb379cfadb13ae34768a3e2ada5c718ae427cdf9"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "813e9e0eafc379e546d68dd12bfcee29eee4ab4eefbbde3b8648e3401aaa23d4"
 metafile = true
 
 [[files]]
@@ -544,6 +630,11 @@ hash = "592cae3c3e28eb59a6991c492a12eca91e553585899e9fccff8729758fec3343"
 [[files]]
 file = "resourcepacks/Xalis-Potions-1.21-Variants-CIT.zip"
 hash = "0ea313a91009fc8f75ba7b1f908b400f3ad8b5caf21b7a74ee91fea7904b5688"
+
+[[files]]
+file = "resourcepacks/building-gadgets-create-like.pw.toml"
+hash = "faa211a47a29fb940bfe2d1ccdfc3869f48b265491320e2baa346066dc29ceea"
+metafile = true
 
 [[files]]
 file = "resourcepacks/mt-ct-d.pw.toml"
