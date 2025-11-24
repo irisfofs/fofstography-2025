@@ -13,6 +13,26 @@ file = "config/almostunified/unification/materials.json"
 hash = "5434898849c8f90b402c3532f982bfda917d4e3188d1dcb8cc513320e1443e94"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "f9e0c355d613ce85897bf60148f8b9477d5ae8eeac613783bb17ca04724a8d63"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-common.toml"
+hash = "5ef66eab1273ef782918c507595a4ff4e59287f0b90db19bc3c79a378d9955f6"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "50c6809e2330bd0d1ca6ee5393c5a9929ed53abb272bd90668094f48b92c4247"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "64a62d08e92c2e92b7e5be58aa2cde5188fc98b8743ce509e7195563f668ba86"
+
+[[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
 hash = "4213de78ee05ca0e3e8629c95a0c9ffa0fc754cbf559e6bb704f9011290a6162"
 
@@ -53,12 +73,52 @@ file = "config/openloader/packs/player head drops v1.1.14 (MC 1.21-1.21.10).zip"
 hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
 
 [[files]]
-file = "config/veinmining-client.toml"
+file = "config/refinedstorage_quartz_arsenal-common.toml"
+hash = "bdbdb1e8e1e50886c3ebf7bbe0a87a1e8c6f65ff1a7eb9fe4ae8943c058d887a"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "be76d2f4fb8bddcefee2282c76a6f5519556f2275552c8f8bbe05a211a8f4c4d"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "bff7e3bac0020f7df9ee87eac1a6fd3c14e38bacfbfd981a07cda2689e176764"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "02bd5eda62da8a88d32d780bad21df61ff9d6aa978e3caaff26b84cdbf892591"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "58ce159070707aa4642615e99040e6deb754cc62b1e1d315abc7336a057b0d04"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/iris.properties"
+hash = "b28abbc41b9b5fcfbea22d96b06615d77fdcea951dbaca640bb63d94a7f77737"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "3190e0394c274c25a0f21e084bd9b6e6295211699373c22728087144c7176f98"
+
+[[files]]
+file = "configureddefaults/pingwheel.json"
+hash = "cae2631f0724b26a068a94d1e6ed18006737127f70de6d771f15afbdc0713ede"
+
+[[files]]
+file = "configureddefaults/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
-file = "defaultconfigs/veinmining-server.toml"
-hash = "bff7e3bac0020f7df9ee87eac1a6fd3c14e38bacfbfd981a07cda2689e176764"
+file = "configureddefaults/xaerominimap.txt"
+hash = "02c664faeeb670e7d155f1e72954964a504d939a3076e4ab85956f84777d3b8d"
+
+[[files]]
+file = "configureddefaults/xaeroworldmap.txt"
+hash = "74c912830ad2c61465d05e119c8cf583b7697d450ede5c6d14736879a97ebd26"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -154,7 +214,7 @@ hash = "d4c5574bd31107b366241abc8a60a14a4a09005c0a4d0d2f637326f62aa177af"
 
 [[files]]
 file = "kubejs/server_scripts/src/mix_salt.js"
-hash = "e6b312bc68c64e70e3306147ad2de0ad0f2cd3e136b4439c0f67256c7dea69ea"
+hash = "6b001ffd0ae1bf995629528b54579029c7eb23a23a702fda723304f9ab1dc721"
 
 [[files]]
 file = "kubejs/server_scripts/src/remove_op_recipes.js"
@@ -297,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "debe8db79b3c28277116c603ded923c919a091280d6ace4ad7a287b4117493e9"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
 metafile = true
 
 [[files]]
