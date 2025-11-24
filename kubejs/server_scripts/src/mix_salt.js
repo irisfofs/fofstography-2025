@@ -1,6 +1,6 @@
-// ServerEvents.recipes((event) => {
-//   event.recipes.create
-//     .mixing("2x vegandelight:salt", Fluid.of("minecraft:water", 1000))
-//     .heated()
-//     .id("hauser:salt_from_fluid");
-// });
+ServerEvents.recipes((event) => {
+  event.remove({ id: "createfood:farmersdelight/cooking/salt_from_cooking" });
+  // Can't remove Slice and  Dice converted recipes because they're generated
+  // afterwards.
+  // event.remove({ id: "jei:/sliceanddice/cooking/vegandlight/cooking/salt_0" });
+});

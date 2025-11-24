@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/duplicates.json"
+hash = "f100891ca413e34e6cbafebda013568b2fd1f4a0dc37d3180cadba885ea043e5"
+
+[[files]]
+file = "config/almostunified/tags.json"
+hash = "3c6c46b05480e05a355634030c1c84274c74055526ebab5bf7b47a7e97ec9089"
+
+[[files]]
+file = "config/almostunified/unification/materials.json"
+hash = "5434898849c8f90b402c3532f982bfda917d4e3188d1dcb8cc513320e1443e94"
+
+[[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
 hash = "4213de78ee05ca0e3e8629c95a0c9ffa0fc754cbf559e6bb704f9011290a6162"
 
@@ -180,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "47e982738ecdc8aa7cd263bc6f2f6567713b04d119bb9fdbefae3586f53e7dac"
 metafile = true
 
 [[files]]
