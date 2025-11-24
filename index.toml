@@ -203,6 +203,11 @@ hash = "be28a9ff89c60140b2983eb91089e77bec90bc5a0379c25472be01cb14dcbb97"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "07e756eec150953e1da73adbee0c1d4d79cd9c48bc9c78ae4d3591e7097b45f2"
+metafile = true
+
+[[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "5ebc1849da4c78f57b8f4cde4320d5409ea9244e372d50afc6362ee88d66dd50"
 metafile = true
@@ -283,6 +288,11 @@ hash = "debe8db79b3c28277116c603ded923c919a091280d6ace4ad7a287b4117493e9"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "ccf9e64814aea3a7c29689a9f2509002976428bdb798119cb32cdbd655456a07"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
 metafile = true
@@ -290,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
 metafile = true
 
 [[files]]
@@ -355,6 +370,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "9183ad59a5d472e041766c52bdc1126231d4f4db1b47b84eb165b450cd56a3c7"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
@@ -485,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "44abae510395f12f9ea97b8296b2f72e25f18b9f3f2cc0ee42c0d9afd73fe0b3"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "c19754832997fe5fbd9488eeb3b02f3221f36893f94003e403b731ed9e9132ce"
 metafile = true
 
 [[files]]
@@ -768,6 +793,11 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "fba0893c1da8c6e93beb9dac0e03228ebc108e3016a44d43c6e4d1faea2a16f2"
+metafile = true
+
+[[files]]
 file = "mods/recipe-modification.pw.toml"
 hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
 metafile = true
@@ -843,6 +873,11 @@ hash = "382d046069eefe23726209ccc23ef5916b0ce9fb4650a5256d4cd516f74d0790"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "ff6934dbf3203c63dbdab3b2b3a89e82c047ad22db63d8511d737a489aac743c"
+metafile = true
+
+[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "a1deef8071fb83a13df63c289576813b82f0687eebda9b48b7667620d5d45103"
 metafile = true
@@ -905,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "4338ec3c94e52d34a0678bbc124816bcb52b048dbe5bb75bab61ae1077d298e8"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "506c793ef226a2a774b7f7ec830745926eea7cbcf660cf0b7440823fffdc1bf2"
 metafile = true
 
 [[files]]
