@@ -298,6 +298,11 @@ hash = "946a389729193083c0f937e22f778be1e88f7429bdd25abefb22316af49d7da5"
 metafile = true
 
 [[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "fa27a4afae3c0329580d41893390307f2f4e71e3f3d7e06c6ee19ec44de39a53"
+metafile = true
+
+[[files]]
 file = "mods/create-smart-bounds.pw.toml"
 hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
 metafile = true
