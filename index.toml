@@ -173,6 +173,11 @@ file = "kubejs/startup_scripts/src/hauser.js"
 hash = "b908977758fda1c47334f4d7110084c44f831dff53b1b777e7b0b24651666f64"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "de8c3546c0385ff9bdf997d3137b7ed19da929e2931bdca5d287a269f2c343a5"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
 metafile = true
@@ -218,6 +223,11 @@ hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "a5122c5ecc0e36da4f60474cc8ecaff590aaeae8be545ffddfe2c25db89816e7"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6cd235030774b3cfab54145cf616ab47b0afa57cacab75ede94c2682c9450ce9"
 metafile = true
@@ -245,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
+metafile = true
+
+[[files]]
+file = "mods/clayworks.pw.toml"
+hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
 metafile = true
 
 [[files]]
@@ -360,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "975f1280c712d2e86dd4ecddf89c516afbf3f1fb684499d3e5c71fc666c4888c"
+metafile = true
+
+[[files]]
+file = "mods/easel-does-it.pw.toml"
+hash = "bd2e41b748a1626254836e438f116a420c78bbdbfcb9a392ee9b2be314bc5d28"
 metafile = true
 
 [[files]]
@@ -660,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
 metafile = true
 
 [[files]]
