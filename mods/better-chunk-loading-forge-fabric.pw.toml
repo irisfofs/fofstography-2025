@@ -1,6 +1,6 @@
 name = "Better chunk loading[Forge/Fabric]"
 filename = "betterchunkloading-1.21-5.4.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
