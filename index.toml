@@ -236,6 +236,10 @@ file = "mods/badoptimizations.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/baguettelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 metafile = true
 
@@ -545,6 +549,14 @@ metafile = true
 
 [[files]]
 file = "mods/gnetum.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
 metafile = true
 
 [[files]]
