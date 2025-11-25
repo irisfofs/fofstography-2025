@@ -335,6 +335,11 @@ hash = "8629fe0739a2243641a1a00b103682bcb2741a9295f9eac4c2a2135a867f8442"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "335d98debb12256815368fb77a3bec68b017c1bbf5969763087cd96f43c9a6ae"
+metafile = true
+
+[[files]]
 file = "mods/clayworks.pw.toml"
 hash = "055b1cba862cdddfce8466ce63b9cf1bf07541602069e80c6cf9f50d64ec8197"
 metafile = true
