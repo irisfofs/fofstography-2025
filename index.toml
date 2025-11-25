@@ -193,16 +193,16 @@ file = "kubejs/server_scripts/src/create_recipes_for_refined_storage.js"
 hash = "cb5ba14164f4f9630b96717841695eee3fd9ebcea7764712efe25effdcf153e7"
 
 [[files]]
-file = "kubejs/server_scripts/src/custom_hauser_recipes.js"
-hash = "886ceaf2b1f852bdd2aa416483344ab050d10c400f6edf6c08fcd62de5a397bf"
-
-[[files]]
 file = "kubejs/server_scripts/src/exposure_stack_export.js"
 hash = "cd553e2ddaae0830e0fd6eb61e5b886fe106aa0ba5f0e6b1bcab4e1b43269b53"
 
 [[files]]
 file = "kubejs/server_scripts/src/fix_soymilk_for_other_mods.js"
 hash = "142ca016eefacd99713068fe7600fd7a7d8f57dbe2bc7234a9512638dfc4f728"
+
+[[files]]
+file = "kubejs/server_scripts/src/fofs_tweaks.js"
+hash = "b2261f51255cfd020d212b7330ae65773ef22592cfa4b9b49c0ae0a20aaa9770"
 
 [[files]]
 file = "kubejs/server_scripts/src/hide_refined_storage_dyeing.js"
