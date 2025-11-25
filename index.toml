@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-modification.pw.toml"
-hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
+hash = "e37a1d0aee9e8ca938e0653ef3e32a498c5c83e1bc1896d6cdb2a11d3dc1fb29"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "8ad02530347f7b0dfe84b8eb081e2eaa23cae536de0d289137902f7557fb3a33"
+hash = "c4a35851c75f08bdc6676ae500bf438a78f22ed53db3ffe2a5dfaab6efc7802e"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+hash = "77a945b5ff32f1a821cd2942bcd2fb411740061f022efad3e48eaa8577b48636"
 metafile = true
 
 [[files]]

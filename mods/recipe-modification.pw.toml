@@ -1,6 +1,7 @@
 name = "Recipe Modification library"
 filename = "recipe_modification-neoforge-1.21.1-0.1.2.jar"
-side = "server"
+side = "both"
+# Vegan Delight complains if not present
 
 [download]
 url = "https://cdn.modrinth.com/data/fRIu3HNp/versions/Ksxnb4HA/recipe_modification-neoforge-1.21.1-0.1.2.jar"
