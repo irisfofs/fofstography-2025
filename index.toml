@@ -1030,11 +1030,6 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-onion.pw.toml"
-hash = "72eceb2eb569b1a51fd05d58a40580366deda0a83f2a7e560de7a1a316b11066"
-metafile = true
-
-[[files]]
 file = "mods/stdrdc.pw.toml"
 hash = "73b8a815589707dc6776c4c2a415dbd04c2af5e631f462a69fe6aab5e70a7216"
 metafile = true
