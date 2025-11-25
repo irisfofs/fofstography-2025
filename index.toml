@@ -113,6 +113,10 @@ file = "configureddefaults/pingwheel.json"
 hash = "cae2631f0724b26a068a94d1e6ed18006737127f70de6d771f15afbdc0713ede"
 
 [[files]]
+file = "configureddefaults/sodiumextras-client.toml"
+hash = "2ce5dbff1b1e5cd3b743d13fddc88e3ac507c6a32d5f1866709acbfb8970671d"
+
+[[files]]
 file = "configureddefaults/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
@@ -1193,6 +1197,14 @@ metafile = true
 [[files]]
 file = "resourcepacks/varied-foxes-1-2 iris v1.1.zip"
 hash = "e3eb90387fab90ae7d504243bf466c46441384735919c48e95a34ba2f299e059"
+
+[[files]]
+file = "shaderpacks/CR5.6.1 + EP1.7.8 fofs.txt"
+hash = "d9e9dd04bec9b2c3288b44c808c1d9a049606457efd6cc700db5014379e9d55d"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.6.1 + EuphoriaPatches_1.7.8.txt"
+hash = "d9e9dd04bec9b2c3288b44c808c1d9a049606457efd6cc700db5014379e9d55d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
