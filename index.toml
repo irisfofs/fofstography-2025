@@ -17,6 +17,10 @@ file = "config/carryon-common.toml"
 hash = "f9e0c355d613ce85897bf60148f8b9477d5ae8eeac613783bb17ca04724a8d63"
 
 [[files]]
+file = "config/clayworks-common.toml"
+hash = "f300af761ec5d703522f845a9e5e3d4377a2c17fcaadaa1772a477d9d6b38a73"
+
+[[files]]
 file = "config/create-common.toml"
 hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 
