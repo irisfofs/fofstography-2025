@@ -1,2 +1,4 @@
+version:3955
+guiScale:2
 resourcePacks:["vanilla","mod_resources","file/Sparkles_1.21.x_v1.1.5.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","fabric","file/Xalis-Potions-1.21-Variants-CIT.zip","file/Xalis-Enchanted-Books-1.21-Variants-CIT.zip","mod/tomsstorage_knowlogy:resourcepacks/toms_storage","mod/knowlogy:resourcepacks/1.0.0_minecraft","mod/knowlogy:resourcepacks/1.21.0_tricky_trials","mod/exposure_knowlogy:resourcepacks/exposure","mod/exposure_knowlogy:resourcepacks/exposure_polaroid","file/Create Style for Refined Storage.zip","file/v2_REFRESH_Building_Gadgets_Create_Like.zip","moonlight:merged_pack"]
 incompatibleResourcePacks:["file/Create Style for Refined Storage.zip","file/v2_REFRESH_Building_Gadgets_Create_Like.zip"]
