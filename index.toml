@@ -18,19 +18,19 @@ hash = "5434898849c8f90b402c3532f982bfda917d4e3188d1dcb8cc513320e1443e94"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "f9e0c355d613ce85897bf60148f8b9477d5ae8eeac613783bb17ca04724a8d63"
+hash = "7c7671ac238d1a6c4f73d410a091d18a84b5c4d63cbdd2f37e821f8a54dbd2d0"
 
 [[files]]
 file = "config/clayworks-common.toml"
-hash = "f300af761ec5d703522f845a9e5e3d4377a2c17fcaadaa1772a477d9d6b38a73"
+hash = "a3ba127679e391bcdba7b63f6610ba25fae7c49b2dbe428bcbc6a8e0c5e17608"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
 file = "config/functionalstorage/functionalstorage-common.toml"
-hash = "5ef66eab1273ef782918c507595a4ff4e59287f0b90db19bc3c79a378d9955f6"
+hash = "4b15d9269e6e82b43a0321d0e4c440d9088403c3552195b289bd8302281ccde9"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -38,7 +38,7 @@ hash = "50c6809e2330bd0d1ca6ee5393c5a9929ed53abb272bd90668094f48b92c4247"
 
 [[files]]
 file = "config/jei-server.toml"
-hash = "64a62d08e92c2e92b7e5be58aa2cde5188fc98b8743ce509e7195563f668ba86"
+hash = "c02a2d1aac1329f9bdbc0412af3f1a0672e7afcfb799217d1026d8610a4db82d"
 
 [[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
@@ -50,7 +50,7 @@ hash = "bb48e8cba3ef025c6988877e092024dc7f7f93ea0eaa8fee5c1bd4a6f1b5bb5c"
 
 [[files]]
 file = "config/openloader/packs/hauser_legendary_tooltips/assets/legendarytooltips/frame_definitions.json"
-hash = "e9b7998dc7a4bcd8a67ce258731bd3ee10dd37b7028b20a2732a419e0a2a1197"
+hash = "60fd000bb1d073d28f7609ae7ed5609db58963682df1d301e11c8dfa51b9b597"
 
 [[files]]
 file = "config/openloader/packs/hauser_legendary_tooltips/assets/legendarytooltips/textures/gui/tooltip_borders.png"
@@ -58,7 +58,7 @@ hash = "3a012759c642b6b74fdd0940c6adf70ca1b87728b6a2f81ced94a5f3a97f3a3c"
 
 [[files]]
 file = "config/openloader/packs/hauser_legendary_tooltips/pack.mcmeta"
-hash = "9a8c5e94510af64a194cbf2c8741b09f7850d24fad317d3fada7f02318057a2e"
+hash = "981065909e3059000c846af3a5e2dbd690a80fd191a9a08014b6f4846c7a0b81"
 
 [[files]]
 file = "config/openloader/packs/hauser_legendary_tooltips/pack.png"
@@ -82,7 +82,7 @@ hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
 
 [[files]]
 file = "config/refinedstorage_quartz_arsenal-common.toml"
-hash = "bdbdb1e8e1e50886c3ebf7bbe0a87a1e8c6f65ff1a7eb9fe4ae8943c058d887a"
+hash = "25f63e2012cc3080e8e43fd8d97372c78aae870c77cd7343ada361e52a06c04d"
 
 [[files]]
 file = "config/tectonic.json"
@@ -94,47 +94,47 @@ hash = "bff7e3bac0020f7df9ee87eac1a6fd3c14e38bacfbfd981a07cda2689e176764"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "02bd5eda62da8a88d32d780bad21df61ff9d6aa978e3caaff26b84cdbf892591"
+hash = "c462b2554f698b4a869fa7c4596f064e67481f1dff61080b11c3368d35bdf01e"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "58ce159070707aa4642615e99040e6deb754cc62b1e1d315abc7336a057b0d04"
+hash = "acf2bacf64261895123ff8b0bffbed94462fa9c5a277a252b8b9101f08876592"
 
 [[files]]
 file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
-file = "configureddefaults/iris.properties"
-hash = "b28abbc41b9b5fcfbea22d96b06615d77fdcea951dbaca640bb63d94a7f77737"
+file = "configureddefaults/config/iris.properties"
+hash = "eee489bee1092615b9a28d709bd0faf3cf46dfe873704243f6b8413eae16d09e"
 
 [[files]]
-file = "configureddefaults/pingwheel.json"
+file = "configureddefaults/config/pingwheel.json"
 hash = "cae2631f0724b26a068a94d1e6ed18006737127f70de6d771f15afbdc0713ede"
 
 [[files]]
-file = "configureddefaults/sodiumextras-client.toml"
-hash = "2ce5dbff1b1e5cd3b743d13fddc88e3ac507c6a32d5f1866709acbfb8970671d"
+file = "configureddefaults/config/sodiumextras-client.toml"
+hash = "845c31c34fc8c073ca16203594be0795423310ac3a2164f4a077057c870ad564"
 
 [[files]]
-file = "configureddefaults/veinmining-client.toml"
+file = "configureddefaults/config/veinmining-client.toml"
 hash = "0c50f16b6fcbb47538b1bf1bccb80106e193df38a8029f1fc48b995346c459aa"
 
 [[files]]
-file = "configureddefaults/xaerominimap.txt"
-hash = "02c664faeeb670e7d155f1e72954964a504d939a3076e4ab85956f84777d3b8d"
+file = "configureddefaults/config/xaerominimap.txt"
+hash = "6667b9a20bbf091242779251e5188959ac2af8710b840987f54420cec6c4ddd0"
 
 [[files]]
-file = "configureddefaults/xaeroworldmap.txt"
-hash = "74c912830ad2c61465d05e119c8cf583b7697d450ede5c6d14736879a97ebd26"
+file = "configureddefaults/config/xaeroworldmap.txt"
+hash = "9e10e119bcf5fc1901bb102e357609b59d868676cf7a1a8fe24647b8f05e920a"
 
 [[files]]
 file = "defaultoptions/keybindings.txt"
-hash = "0340b735b81fc3061fe44750b498ae2631af809d86cdc94707802b4beddb67c7"
+hash = "35ab591b9156928b113802a17bf9eaf984323f24c7cbb285d85bd9eb0df80ed1"
 
 [[files]]
 file = "defaultoptions/options.txt"
-hash = "36c162b2dcfb0a9e670d2470c47ae4e169bc39eb0969f471d6e4c4e515c37f0e"
+hash = "77e880192fd0224d151377fcb6a2ba0e1e6dc41b6dc3d747beae5963f2bb9e51"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -190,11 +190,11 @@ hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "0601801d568b5d5b2fa5194175d0bb9f6c0e48bb90ef1816d61cda84e9e07403"
+hash = "24c6febd7c687c32fc23954b8cc3d2fdc23184ce6bb4337d50549022ca5c6139"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "223e42bcb4876a93cf49e7d02561337c152e555716d2a55b6fec7247c4f216ce"
+hash = "20f7792c77d847aca815c17c7f253182d6a35376cec0c23b9bf02e41c11527bf"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
@@ -206,7 +206,7 @@ hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
 
 [[files]]
 file = "kubejs/server_scripts/src/create_recipes_for_refined_storage.js"
-hash = "cb5ba14164f4f9630b96717841695eee3fd9ebcea7764712efe25effdcf153e7"
+hash = "879abec1bcce2ee2cd4551e0a55b29d17c46019bd418d6aeaf1345dc72d3c99d"
 
 [[files]]
 file = "kubejs/server_scripts/src/exposure_stack_export.js"
@@ -214,7 +214,7 @@ hash = "cd553e2ddaae0830e0fd6eb61e5b886fe106aa0ba5f0e6b1bcab4e1b43269b53"
 
 [[files]]
 file = "kubejs/server_scripts/src/fix_soymilk_for_other_mods.js"
-hash = "142ca016eefacd99713068fe7600fd7a7d8f57dbe2bc7234a9512638dfc4f728"
+hash = "0f315dc6c209c77d36c0798cfbf72b36040459c71874689d399e5e3e10129fc8"
 
 [[files]]
 file = "kubejs/server_scripts/src/fofs_tweaks.js"
@@ -222,35 +222,35 @@ hash = "b2261f51255cfd020d212b7330ae65773ef22592cfa4b9b49c0ae0a20aaa9770"
 
 [[files]]
 file = "kubejs/server_scripts/src/hide_refined_storage_dyeing.js"
-hash = "8501dcedac46704f38bbded642df8b3214b43869776c4601313daf6af4ba07f2"
+hash = "00f9befe601c7a95425f573fc8f2fd6c0ad3ba8647f5300dd8b45d939dd212b5"
 
 [[files]]
 file = "kubejs/server_scripts/src/kanga_recipes.js"
-hash = "d4c5574bd31107b366241abc8a60a14a4a09005c0a4d0d2f637326f62aa177af"
+hash = "9607e02210422c9589b1e7dcdfbe82e7731f56a49e38c31a11807b614508b68c"
 
 [[files]]
 file = "kubejs/server_scripts/src/mix_salt.js"
-hash = "6b001ffd0ae1bf995629528b54579029c7eb23a23a702fda723304f9ab1dc721"
+hash = "dfa1adc247406f8d35e9c79ccfa50891124e68483d74c3826a972519d288eddb"
 
 [[files]]
 file = "kubejs/server_scripts/src/remove_op_recipes.js"
-hash = "7686333937ea9ca4bf49e7ccd1b690c22ceb8cb92dbf8f1da2dd332c94b42260"
+hash = "436981e50740e5d7f5b190aecbe78b946112ee97009fe72332bead4f26c75300"
 
 [[files]]
 file = "kubejs/server_scripts/src/renewable_dirt.js"
-hash = "04838ad835604c07db008133699e8af096b1c8de63ae41e4dff140a0a1ee1326"
+hash = "120d58c054292634bafbc9249b9055c00a1e4482fb0fe5aa52c39432325af04e"
 
 [[files]]
 file = "kubejs/server_scripts/src/stuffed_pumpkins_with_rice.js"
-hash = "23763f97bb77034477382c0acdd6f3a6a5e4b824f28f15484288346032b4619a"
+hash = "afa1768369587b648cdc8d3ce7dad0839e4d814739ce3a8b70abc861df0421c2"
 
 [[files]]
 file = "kubejs/server_scripts/src/superheat_netherite.js"
-hash = "70b3b62a3fe9b57f675bcf872440b560a3887a85b63fc7277bd5e1f61e50f437"
+hash = "62aa607477f826000c236bfd50005e7e8c7d4c820a72c4011d584fc49f439648"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "65d562ab6447c8687ee481dd5a60bc04994dbad41033888f8e4b96ff8c31cf0d"
+hash = "ea572befdbc83a156e48c834204879658f78b28117139fcc09fe55490163e5c6"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1218,11 +1218,11 @@ hash = "e3eb90387fab90ae7d504243bf466c46441384735919c48e95a34ba2f299e059"
 
 [[files]]
 file = "shaderpacks/CR5.6.1 + EP1.7.8 fofs.txt"
-hash = "d9e9dd04bec9b2c3288b44c808c1d9a049606457efd6cc700db5014379e9d55d"
+hash = "5f4fc8900d5c7c6735cf0d865c3672c5c8de5794307f2bb35aeef3d340d592c2"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.6.1 + EuphoriaPatches_1.7.8.txt"
-hash = "d9e9dd04bec9b2c3288b44c808c1d9a049606457efd6cc700db5014379e9d55d"
+hash = "5f4fc8900d5c7c6735cf0d865c3672c5c8de5794307f2bb35aeef3d340d592c2"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
