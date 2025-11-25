@@ -149,7 +149,7 @@ key_key.kubejs.kubedex:key.keyboard.k:
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt:
 key_key.pingwheel.ping_location:key.mouse.5:
 key_key.pingwheel.open_settings:key.keyboard.unknown:
-key_key.cpm.gestureMenu:key.keyboard.g:
+key_key.cpm.gestureMenu:key.keyboard.unknown:
 key_key.cpm.renderToggle:key.keyboard.unknown:
 key_key.cpm.qa_1:key.keyboard.unknown:
 key_key.cpm.qa_2:key.keyboard.unknown:
