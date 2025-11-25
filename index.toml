@@ -94,6 +94,9 @@ file = "configureddefaults/README.md"
 file = "configureddefaults/config/iris.properties"
 
 [[files]]
+file = "configureddefaults/config/moreculling.toml"
+
+[[files]]
 file = "configureddefaults/config/pingwheel.json"
 
 [[files]]
