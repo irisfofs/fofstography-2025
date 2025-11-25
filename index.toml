@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "953cb5b80346ced69bada17cd8faf70429c89511316d23673adab6dc88933170"
+
+[[files]]
 file = "config/almostunified/duplicates.json"
 hash = "f100891ca413e34e6cbafebda013568b2fd1f4a0dc37d3180cadba885ea043e5"
 

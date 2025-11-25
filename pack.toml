@@ -1,12 +1,12 @@
 name = "Fofstography 2025"
 author = "irisfofs"
-version = "0.3.0"
+version = "0.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8f6834fdc7a7ca34c57b976e3816db85905e43f6214e1fc6caad1bf1c7d05cb9"
+hash = "32486c748d9d96de57a21ab8d639d14357528e0d1303ffb391cb1679243b25fc"
 
 [versions]
 minecraft = "1.21.1"
