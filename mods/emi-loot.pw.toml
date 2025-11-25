@@ -1,13 +1,13 @@
 name = "EMI Loot"
-filename = "emi_loot-0.7.6+1.21+neoforge.jar"
+filename = "emi_loot-0.7.7+1.21-fix1+neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/ZCSyd1co/emi_loot-0.7.6%2B1.21%2Bneoforge.jar"
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/aoQx2NT2/emi_loot-0.7.7%2B1.21-fix1%2Bneoforge.jar"
 hash-format = "sha512"
-hash = "273dce3dc8746c664f95cd97f2afc8f32684dd107c69daacd40c514574207d856a9edf6133cb1529cf7c50d6fbc16f30028a9ecb8137162d29f52567cdc4c564"
+hash = "b8450f93823cd83a4249a98c779d664e86e902c52819e87b0e30e3be09dfd40aaebb8e6eeac7fd5295ad5e45410d7a9ddbae0c57a329c66c35f2c79918ed0b4f"
 
 [update]
 [update.modrinth]
 mod-id = "qbbO7Jns"
-version = "ZCSyd1co"
+version = "aoQx2NT2"
