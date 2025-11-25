@@ -650,6 +650,11 @@ hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
+file = "mods/horseman.pw.toml"
+hash = "c973936c8b9750daf0296baa21befb407640a186ec4eb433be840d1dddccc5a3"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "019fea93516a470bbcad284dd0cbad6f4e2914d96221c86e3f87c12fe6321e10"
 metafile = true
