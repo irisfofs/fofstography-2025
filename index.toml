@@ -79,6 +79,9 @@ file = "config/tectonic.json"
 file = "config/veinmining-server.toml"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 
 [[files]]
