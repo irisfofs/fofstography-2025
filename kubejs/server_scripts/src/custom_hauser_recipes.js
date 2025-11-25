@@ -5,7 +5,8 @@ ServerEvents.recipes((event) => {
     .id("hauser:unspicy_magma_cream");
 });
 
-// ServerEvents.tags("item", (event) => {
-//   event.add("forge:fruits", "deeperdarker:bloom_berries");
-//   event.add("forge:berries", "deeperdarker:bloom_berries");
-// });
+// Custom tag for Jade equipment requirement.
+ServerEvents.tags("item", (event) => {
+  event.add("fofs:enable_jade", "create:goggles");
+  event.add("fofs:enable_jade", "minecraft:spyglass");
+});

@@ -194,7 +194,7 @@ hash = "cb5ba14164f4f9630b96717841695eee3fd9ebcea7764712efe25effdcf153e7"
 
 [[files]]
 file = "kubejs/server_scripts/src/custom_hauser_recipes.js"
-hash = "39e8a2054f98ca935316045f9cb5e2f0612a0c084d73860721b83e83f7dc12ce"
+hash = "886ceaf2b1f852bdd2aa416483344ab050d10c400f6edf6c08fcd62de5a397bf"
 
 [[files]]
 file = "kubejs/server_scripts/src/exposure_stack_export.js"
