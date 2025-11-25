@@ -328,6 +328,14 @@ file = "mods/cosmetic-armor-reworked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
