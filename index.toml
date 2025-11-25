@@ -29,6 +29,14 @@ file = "config/create-common.toml"
 hash = "1c632f62c30f4e1223669267196d2ff1a2c03e400bf565ff4fe81e20c7cd2bdf"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "35ab591b9156928b113802a17bf9eaf984323f24c7cbb285d85bd9eb0df80ed1"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "77e880192fd0224d151377fcb6a2ba0e1e6dc41b6dc3d747beae5963f2bb9e51"
+
+[[files]]
 file = "config/functionalstorage/functionalstorage-common.toml"
 hash = "4b15d9269e6e82b43a0321d0e4c440d9088403c3552195b289bd8302281ccde9"
 
@@ -127,14 +135,6 @@ hash = "6667b9a20bbf091242779251e5188959ac2af8710b840987f54420cec6c4ddd0"
 [[files]]
 file = "configureddefaults/config/xaeroworldmap.txt"
 hash = "9e10e119bcf5fc1901bb102e357609b59d868676cf7a1a8fe24647b8f05e920a"
-
-[[files]]
-file = "defaultoptions/keybindings.txt"
-hash = "35ab591b9156928b113802a17bf9eaf984323f24c7cbb285d85bd9eb0df80ed1"
-
-[[files]]
-file = "defaultoptions/options.txt"
-hash = "77e880192fd0224d151377fcb6a2ba0e1e6dc41b6dc3d747beae5963f2bb9e51"
 
 [[files]]
 file = "kubejs/README.txt"
