@@ -91,6 +91,9 @@ file = "config/xaeroworldmap-common.txt"
 file = "configureddefaults/README.md"
 
 [[files]]
+file = "configureddefaults/config/DistantHorizons.toml"
+
+[[files]]
 file = "configureddefaults/config/iris.properties"
 
 [[files]]
