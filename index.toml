@@ -172,6 +172,9 @@ file = "kubejs/server_scripts/jsconfig.json"
 file = "kubejs/server_scripts/src/create_recipes_for_refined_storage.js"
 
 [[files]]
+file = "kubejs/server_scripts/src/eggs.js"
+
+[[files]]
 file = "kubejs/server_scripts/src/exposure_stack_export.js"
 
 [[files]]
