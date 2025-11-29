@@ -728,7 +728,14 @@ file = "mods/ok-zoomer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/opac-bluemap-integration-1.1.0.jar"
+
+[[files]]
 file = "mods/open-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
@@ -1006,6 +1013,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mt-ct-d.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/no-potion-particles.pw.toml"
 metafile = true
 
 [[files]]
