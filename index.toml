@@ -743,6 +743,10 @@ file = "mods/owo-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/packwiz-server-updater.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 metafile = true
 
