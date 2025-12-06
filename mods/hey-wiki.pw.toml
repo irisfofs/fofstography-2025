@@ -1,0 +1,13 @@
+name = "Hey Wiki"
+filename = "heywiki-neoforge-1.7.7+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6DnswkCZ/versions/UPCuOPdg/heywiki-neoforge-1.7.7%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3ab1dd51cc653bd10b87f72e5726f4db919526c46af0d13a96d9171d743b4324c397383185c94189f153ff59f7cbe8126764c7449fe0ef23c42324568496673e"
+
+[update]
+[update.modrinth]
+mod-id = "6DnswkCZ"
+version = "UPCuOPdg"

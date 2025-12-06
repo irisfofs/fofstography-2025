@@ -576,6 +576,10 @@ file = "mods/gravestone-x-curios-api-compat.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hey-wiki.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 metafile = true
 
@@ -828,6 +832,10 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/showcase-item.pw.toml"
 metafile = true
 
 [[files]]
