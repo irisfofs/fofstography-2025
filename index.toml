@@ -40,7 +40,7 @@ file = "config/jade/jade.json"
 file = "config/jei-server.toml"
 
 [[files]]
-file = "config/openloader/packs/fofstography-tweaks/data/minecraft/block/minecraft/enderman_holdable.json"
+file = "config/openloader/packs/fofstography-tweaks/data/minecraft/tags/block/minecraft/enderman_holdable.json"
 
 [[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
