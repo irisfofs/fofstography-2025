@@ -1,6 +1,7 @@
 {
   "custom_tags": {
-    "c:bread_slices": ["createfood:toast_slice"]
+    "c:bread_slices": ["createfood:toast_slice"],
+    "c:milk_bottle": ["neapolitan:milk_bottle"]
   },
   "tag_substitutions": {
     "c:bread_slices": ["c:bread_slice"]

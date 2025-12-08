@@ -5,7 +5,8 @@
     "create",
     "createfood",
     "vegandelight",
-    "farmersdelight"
+    "farmersdelight",
+    "neapolitan"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -30,7 +31,9 @@
     "c:storage_blocks/raw_{material}",
     "c:storage_blocks/{material}",
     "c:wires/{material}",
-    "c:salt"
+    "c:salt",
+    "c:bread_slice",
+    "c:milk_bottle"
   ],
   "ignored_tags": [],
   "ignored_items": [],
