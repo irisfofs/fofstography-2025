@@ -436,6 +436,10 @@ file = "mods/easel-does-it.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 metafile = true
 
