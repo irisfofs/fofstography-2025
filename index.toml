@@ -987,6 +987,10 @@ file = "mods/variants-cit.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/vb-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vegan-delight.pw.toml"
 metafile = true
 
