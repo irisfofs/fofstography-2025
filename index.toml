@@ -31,6 +31,9 @@ file = "config/defaultoptions/options.txt"
 file = "config/defaultoptions/servers.dat"
 
 [[files]]
+file = "config/easyanvils-server.toml"
+
+[[files]]
 file = "config/functionalstorage/functionalstorage-common.toml"
 
 [[files]]
@@ -40,7 +43,10 @@ file = "config/jade/jade.json"
 file = "config/jei-server.toml"
 
 [[files]]
-file = "config/openloader/packs/fofstography-tweaks/data/minecraft/tags/block/minecraft/enderman_holdable.json"
+file = "config/openloader/packs/fofstography-tweaks/data/minecraft/tags/block/enderman_holdable.json"
+
+[[files]]
+file = "config/openloader/packs/fofstography-tweaks/data/terralith/worldgen/biome/rocky_mountains.json"
 
 [[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
