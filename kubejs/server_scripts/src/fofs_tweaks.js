@@ -5,6 +5,9 @@ ServerEvents.recipes((event) => {
   event.recipes.create
     .splashing("minecraft:slime_ball", "minecraft:magma_cream")
     .id("fofs:unspicy_magma_cream");
+
+  // Remove recipe for Interplanar Projector.
+  event.remove({ id: "exposure:interplanar_projector" });
 });
 
 // Custom tag for Jade equipment requirement.
