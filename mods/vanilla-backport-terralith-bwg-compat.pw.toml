@@ -1,13 +1,13 @@
 name = "Vanilla Backport: Terralith & BWG Compat"
-filename = "mob-variants-compat-1.4.jar"
+filename = "vb-mob-variants-compat-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uvYkeUqm/versions/gAhrRvCw/mob-variants-compat-1.4.jar"
+url = "https://cdn.modrinth.com/data/uvYkeUqm/versions/FScUiEv6/vb-mob-variants-compat-1.4.1.jar"
 hash-format = "sha512"
-hash = "a9a962889c9524ebf2a34b4bb832eb1a140a438b9cfee39849d3aa288b5fb11cad8039ade8b0c5ffed1ee6c99f75a768e5c6f500e596f528d1bc51c98fcdff65"
+hash = "8ed9e5e715eff553876ec6063d1f2b0f2dcff3771ed08d5ca767e3af57d529b8a5c1fd03e161a90f520ed9919baf95c1a216b17b5a97284badfdf054cb81bf93"
 
 [update]
 [update.modrinth]
 mod-id = "uvYkeUqm"
-version = "gAhrRvCw"
+version = "FScUiEv6"

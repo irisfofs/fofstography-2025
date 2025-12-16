@@ -3,11 +3,11 @@ filename = "vb-compat-1.4-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jcYHXHwz/versions/y3oHctk6/vb-compat-1.4-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/jcYHXHwz/versions/3CfBd7Np/vb-compat-1.4-1.21.1.jar"
 hash-format = "sha512"
-hash = "38d3b04242639c3de9490d554e41006eaa3c460aba026f4f6b34d292bc5e7d84ed728d2f1ca2a0134e99c2e28f42fbc46b6b74b175a96ef954ac47f6dc3c5c5e"
+hash = "8a6632fb139b1cbb1a96e09bdb021d22875d0546ffabbe8bfc9e3a2b3d21e2a3b961899c65ed7553b3ed49fc01e8db84bc1898f6db742f9a1d6a238496bb1c6d"
 
 [update]
 [update.modrinth]
 mod-id = "jcYHXHwz"
-version = "y3oHctk6"
+version = "3CfBd7Np"
