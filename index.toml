@@ -682,6 +682,10 @@ file = "mods/legendary-tooltips.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 metafile = true
 
@@ -826,6 +830,10 @@ metafile = true
 
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
 metafile = true
 
 [[files]]
@@ -1047,6 +1055,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/no-potion-particles.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
 metafile = true
 
 [[files]]
