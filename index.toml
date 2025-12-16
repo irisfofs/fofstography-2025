@@ -88,16 +88,10 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 file = "config/refinedstorage_quartz_arsenal-common.toml"
 
 [[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-
-[[files]]
 file = "config/tectonic.json"
 
 [[files]]
 file = "config/veinmining-server.toml"
-
-[[files]]
-file = "config/voicechat/voicechat-client.properties"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -127,10 +121,16 @@ file = "configureddefaults/config/pingwheel.json"
 file = "configureddefaults/config/sodiumextras-client.toml"
 
 [[files]]
+file = "configureddefaults/config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
 file = "configureddefaults/config/supplementaries-client.toml"
 
 [[files]]
 file = "configureddefaults/config/veinmining-client.toml"
+
+[[files]]
+file = "configureddefaults/config/voicechat/voicechat-client.properties"
 
 [[files]]
 file = "configureddefaults/config/xaerominimap.txt"
