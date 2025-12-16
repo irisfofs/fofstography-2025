@@ -22,6 +22,9 @@ file = "config/clayworks-common.toml"
 file = "config/create-common.toml"
 
 [[files]]
+file = "config/create-server.toml"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 
 [[files]]
@@ -85,10 +88,16 @@ file = "config/pickupnotifier/pickupnotifier-client.toml"
 file = "config/refinedstorage_quartz_arsenal-common.toml"
 
 [[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+
+[[files]]
 file = "config/tectonic.json"
 
 [[files]]
 file = "config/veinmining-server.toml"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
