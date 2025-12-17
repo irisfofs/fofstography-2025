@@ -202,6 +202,9 @@ file = "kubejs/server_scripts/src/exposure_stack_export.js"
 file = "kubejs/server_scripts/src/fix_soymilk_for_other_mods.js"
 
 [[files]]
+file = "kubejs/server_scripts/src/fofs_announce.js"
+
+[[files]]
 file = "kubejs/server_scripts/src/fofs_tweaks.js"
 
 [[files]]
@@ -233,6 +236,9 @@ file = "kubejs/startup_scripts/jsconfig.json"
 
 [[files]]
 file = "kubejs/startup_scripts/src/hauser.js"
+
+[[files]]
+file = "kubejs/startup_scripts/src/parseTextFormat.js"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
