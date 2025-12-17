@@ -49,9 +49,6 @@ file = "config/jei-server.toml"
 file = "config/openloader/packs/fofstography-tweaks/data/minecraft/tags/block/enderman_holdable.json"
 
 [[files]]
-file = "config/openloader/packs/fofstography-tweaks/data/terralith/worldgen/biome/rocky_mountains.json"
-
-[[files]]
 file = "config/openloader/packs/fofstography-tweaks/data/veinmining/enchantment/vein_mining.json"
 
 [[files]]
