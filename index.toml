@@ -88,6 +88,9 @@ file = "config/refinedstorage_quartz_arsenal-common.toml"
 file = "config/tectonic.json"
 
 [[files]]
+file = "config/toms_storage-common.toml"
+
+[[files]]
 file = "config/veinmining-server.toml"
 
 [[files]]
