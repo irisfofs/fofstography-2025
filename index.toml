@@ -865,16 +865,15 @@ file = "mods/showcase-item.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/simple-magnets.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/simplemagnets-1.1.12irisfofs-neoforge-mc1.21.jar"
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
