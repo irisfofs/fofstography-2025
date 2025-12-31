@@ -1,13 +1,13 @@
 name = "Gnetum"
-filename = "gnetum-3.2.3.jar"
+filename = "gnetum-3.2.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/7MoE34WK/versions/Hmf8XXIo/gnetum-3.2.3.jar"
+url = "https://cdn.modrinth.com/data/7MoE34WK/versions/HjWSDhrE/gnetum-3.2.4.jar"
 hash-format = "sha512"
-hash = "5f00f539410d1ea683e7495f5aebc371bccbf06d9c60f0936483d21479e28cb6ab5ca5f3cbc6c3361864aa262fc6c8984f4fa980c5d6a3b5e3008c9713f73690"
+hash = "23d104d919e73314f1a2eee280b54bac2a0483072332a2f14e295bf08cb6c148af1e65e7fd4e5c8d1c440c56f1e73d5f71210d88fdebb681e9d29ad924c977cd"
 
 [update]
 [update.modrinth]
 mod-id = "7MoE34WK"
-version = "Hmf8XXIo"
+version = "HjWSDhrE"
