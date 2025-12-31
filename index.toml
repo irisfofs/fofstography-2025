@@ -349,6 +349,10 @@ file = "mods/companion.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 metafile = true
 
@@ -734,6 +738,10 @@ metafile = true
 
 [[files]]
 file = "mods/neapolitan.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
 metafile = true
 
 [[files]]
