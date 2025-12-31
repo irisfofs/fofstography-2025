@@ -1,7 +1,15 @@
 PlayerEvents.loggedIn((event) => {
   // event.player.tell("Hello!");
-  const title = `<yellow>[2025-12-16]</yellow> <bold><gold>1st Photo Contest</gold></bold>`;
-  event.player.tell(
+  announceToPlayer(event.player);
+});
+
+function formatTitle(date, title) {
+  return `<yellow>[${date}]</yellow> <bold><gold>${title}</gold></bold>`;
+}
+
+function announceToPlayer(player) {
+  const title = formatTitle("2025-12-16", "1st Photo Contest");
+  player.tell(
     global.parseTextFormat(`${title}
 <bold>Theme:</bold> "Welcome to my house !!"
 <bold>Due:</bold> 2025-12-31 (end of day)
@@ -19,7 +27,15 @@ PlayerEvents.loggedIn((event) => {
 ${title} (open chat and scroll up to read)
 `)
   );
-});
+
+  player.tell(
+    global.parseTextFormat(`${formatTitle(
+      "2025-12-31",
+      "Contest #1 Deadline Extension"
+    )}
+Due to busy schedules on New Year's Eve, the new deadline is <bold>2026-01-01</bold>.`)
+  );
+}
 
 /*
 ## 1st Photo Contest
@@ -32,3 +48,16 @@ Submission deadline: 2025-12-31 23:59
 
 (an Instant Camera is a lot easier to get started with than the normal one)
 */
+
+ServerEvents.commandRegistry((event) => {
+  const { commands: Commands, arguments: Arguments } = event;
+
+  event.register(
+    Commands.literal("fofs_test_announce") // The name of the command
+      .requires((source) => source.hasPermission(2)) // Check if the player has operator privileges
+      .executes((ctx) => {
+        announceToPlayer(ctx.source.player);
+        return 1;
+      })
+  );
+});
