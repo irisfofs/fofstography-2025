@@ -10,14 +10,28 @@ StartupEvents.registry("item", (e) => {
   e.create("soulless_elder_guardian_slab");
 });
 
-// StartupEvents.registry("block", (e) => {
-//   e.create("trophy")
-//     .displayName("Trophy")
-//     .soundType("metal")
-//     .model("kubejs:block/trophy")
-//     .opaque(false)
-//     .fullBlock(false)
-//     .notSolid()
-//     .requiresTool(false)
-//     .box(4, 0, 4, 12, 12, 12);
-// });
+StartupEvents.registry("block", (e) => {
+  e.create("gold_trophy", "cardinal")
+    .displayName("Gold Trophy")
+    .soundType("metal")
+    .opaque(false)
+    .fullBlock(false)
+    .notSolid()
+    .requiresTool(false)
+    .box(5, 0, 5, 11, 12, 11)
+    .item((ctx) => {
+      ctx.rarity("epic");
+    });
+
+  e.create("silver_trophy", "cardinal")
+    .displayName("Silver Trophy")
+    .soundType("metal")
+    .opaque(false)
+    .fullBlock(false)
+    .notSolid()
+    .requiresTool(false)
+    .box(5, 0, 5, 11, 11, 11)
+    .item((ctx) => {
+      ctx.rarity("rare");
+    });
+});

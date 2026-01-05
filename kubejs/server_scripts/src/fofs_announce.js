@@ -62,9 +62,21 @@ const MESSAGES = [
     body: `Due to busy schedules on New Year's Eve, the new deadline is <bold>2026-01-01</bold>.`,
   },
   {
-    show: true,
+    show: false,
     date: "2026-01-02",
     title: "Contest #1 Submissions Closed!",
     body: `We had eight (8) people enter! Thanks for your submissions, everyone. Judging in progress and results will be returned soon.`,
+  },
+  {
+    show: true,
+    date: "2026-01-05",
+    title: "Contest #1 Results",
+    body: `<bold>Theme:</bold> "Welcome to my house !!"
+<bold>Winner:</bold> <italic>huh? oh... u can use the bed, im good... zzz</italic>, by irisfofs
+<bold>Runners-up:</bold>
+  - <italic>Sanctuary</italic>, by Jangoose
+  - <italic>"Welcome to my Horse"</italic>, by SuckyBlowfish
+
+Congrats, and thanks everyone for entering! Prizes and trophies will be delivered today.`,
   },
 ];
