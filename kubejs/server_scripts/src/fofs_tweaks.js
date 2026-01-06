@@ -8,6 +8,11 @@ ServerEvents.recipes((event) => {
 
   // Remove recipe for Interplanar Projector.
   event.remove({ id: "exposure:interplanar_projector" });
+
+  // Manually add Vanilla Backport and Copper Age Backport compat.
+  event.shaped(Item.of("minecraft:pale_oak_shelf", 6), ["AAA", "   ", "AAA"], {
+    A: "minecraft:stripped_pale_oak_log",
+  });
 });
 
 // Custom tag for Jade equipment requirement.
