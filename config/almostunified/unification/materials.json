@@ -6,7 +6,10 @@
     "createfood",
     "vegandelight",
     "farmersdelight",
-    "neapolitan"
+    "neapolitan",
+    "moredelight",
+    "vanillabackport",
+    "untitledduckmod"
   ],
   "priority_overrides": {},
   "stone_variants": [
@@ -32,6 +35,7 @@
     "c:storage_blocks/{material}",
     "c:wires/{material}",
     "c:salt",
+    "c:toast",
     "c:bread_slice",
     "c:milk_bottle"
   ],

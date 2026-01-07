@@ -1,10 +1,17 @@
 {
   "custom_tags": {
-    "c:bread_slices": ["createfood:toast_slice"],
-    "c:milk_bottle": ["neapolitan:milk_bottle"]
+    "c:bread_slice": ["createfood:toast_slice"],
+    "c:milk_bottle": ["neapolitan:milk_bottle"],
+    "c:eggs/bird": [
+      "minecraft:egg",
+      "minecraft:blue_egg",
+      "minecraft:brown_egg",
+      "untitledduckmod:duck_egg",
+      "untitledduckmod:goose_egg"
+    ]
   },
   "tag_substitutions": {
-    "c:bread_slices": ["c:bread_slice"]
+    "c:bread_slice": ["c:bread_slices"]
   },
   "item_tag_inheritance_mode": "ALLOW",
   "item_tag_inheritance": {},
