@@ -79,4 +79,19 @@ const MESSAGES = [
 
 Congrats, and thanks everyone for entering! Prizes and trophies will be delivered today.`,
   },
+  {
+    show: true,
+    date: "2026-01-06",
+    title: "Contest #2 Begins",
+    body: `<bold>Theme:</bold> Year of the Horse
+<bold>Due:</bold> 2026-01-24
+
+<bold><gold>To Enter</gold></bold>
+- Submit one (1) photo <underline>you took</underline> via the hopper at Iris's base (no peeking).
+
+<bold><gold>Prizes</gold></bold>
+- All entrants will receive 1 Interplanar Projector, which you can use to import a meme of your choice as a photo. (Or a picture, whatever.)
+- Winner: Gold Trophy + 2 Enchanted Golden Apples
+- Runners-up: Silver Trophy + 1 Enchanted Golden Apple`,
+  },
 ];
