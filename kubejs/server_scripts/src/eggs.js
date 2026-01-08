@@ -32,9 +32,9 @@ ServerEvents.recipes((event) => {
   });
   event.recipes.create
     .mixing("createfood:boiled_egg", [
-      { tag: "c:eggs/bird" },
-      Fluid.of("minecraft:water", 125),
-      { tag: "c:salt" },
+      Ingredient.of("#c:eggs/bird"),
+      Fluid.sizedIngredientOf("minecraft:water", 125),
+      Ingredient.of("#c:salt"),
     ])
     .heated()
     .id("fofs:createfood/create/mixing/boiled_egg_from_mixing_heated_water");
